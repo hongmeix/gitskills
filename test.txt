@@ -1,5 +1,5 @@
-first modify
-creating a branch is quick
+First modify
+Creating a branch is quick
 Creating a new branch is quick and simple.
 Test --on-ff
 test stash
